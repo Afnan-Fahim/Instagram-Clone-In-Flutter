@@ -1,5 +1,10 @@
 # instagram_series
 
+1. Sign In Screen:
+![Screenshot_1742764510](https://github.com/user-attachments/assets/d2c1a28c-ceab-47ec-8404-b68d063fa5e8)
+
+   
+
 A new Flutter project.
 
 ## Getting Started
